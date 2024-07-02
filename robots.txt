@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shelogreny.github.io/sitemap
+Sitemap: https://shelogreny.github.io/app/sitemap
+Sitemap: https://shelogreny.github.io/assets/sitemap
+Sitemap: https://shelogreny.github.io/css/sitemap
+Sitemap: https://shelogreny.github.io/includes/sitemap
+Sitemap: https://shelogreny.github.io/item/sitemap
+Sitemap: https://shelogreny.github.io/src/sitemap
